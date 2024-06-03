@@ -1,0 +1,31 @@
+car = input("Name a car company for everyday use: ")
+list = ["toyota", "honda", "nissan"]
+if car.lower() in list[0]:
+  model = input("Good choice. Now name a model: ")
+  dict = ["highlander", "4runner", "rav4"]
+  if model.lower() in dict[0]:
+    print("That's a nice one! The Highlander is my favorite Toyota.")
+  else:
+    print("I like that model too.")
+elif car.lower() in list[1]:
+  print("Nice!")
+elif car.lower() in list[2]:
+  print("Interesting.")
+else:
+  print("I didn't think of that. ")
+sports = input("Now, name an expensive/sportscar brand: ")
+tuple = ["porsche", "corvette", "ferrari"]
+
+if sports.lower() in tuple[0]:
+  print("I love the Classic 911!")
+elif sports.lower() in tuple[1]:
+  print("The C7 is absolutely beautiful.")
+elif sports.lower() in tuple[2]:
+  print("A Laferrari sounds like a dream.")
+else:
+  s = {1,2,3,4,5}
+  num = input("That's a cool car; how many cars would you want in your garage? ")
+  if int(num) in s:
+    print("That's a good amount.")
+  else:
+    print("Sheesh.")

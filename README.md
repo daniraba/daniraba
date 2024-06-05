@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @daniraba
-- 👀 I’m interested in all things tech! Specifically, I'm interested in bioinformatics, biotech, software engineering, human-computer interaction, graphic design, and UX/UI design.
-- 🌱 I’m currently pursuing a BS in Computer Science at Pace.
-- 📫 How to reach me: dr48743n@pace.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a chocolate standard poodle and a siamese cat!
+Hey there! My name is Daniella, and I love all things tech! I'm mostly interested in bioinformatics, biotech, software engineering, human-computer interaction, graphic design, and UX/UI design.
+* I’m currently pursuing a BS in Computer Science at Pace University 🎓
+* How to reach me: dr48743n@pace.edu 📩
+* Fun fact: I have a chocolate standard poodle and a siamese cat! 🐩 
 
 <!---
 daniraba/daniraba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

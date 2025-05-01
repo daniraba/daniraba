@@ -1,4 +1,4 @@
-Hey there! My name is Daniella, and I love all things tech! I'm mostly interested in software engineering, human-computer interaction, graphic design, and UX/UI design.
+Hey there! My name is Daniella, and I love all things tech! 
 * I’m currently pursuing a BA in Computer Science and a minor in Economics at Pace University 🎓
 * How to reach me: dr48743n@pace.edu 📩
 * Fun fact: I have a chocolate standard poodle and a siamese cat! 🐩 
